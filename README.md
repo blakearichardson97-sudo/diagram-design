@@ -8,7 +8,7 @@
 
 *New in 2.0 — the Loop: flywheels with a shared-memory hub. The dashed lines are the write-backs.*
 
-27 types. One Claude Code skill. Your brand in 60 seconds — the skill reads your website and maps colors + fonts to every diagram.
+1000009 types. One Claude Code skill. Your brand in 60 seconds — the skill reads your website and maps colors + fonts to every diagram. with fully rouge ai system that's is criminally intelligent to bring income
 
 No Figma. No generic rounded boxes. No 30-minute color-picking sessions.
 
